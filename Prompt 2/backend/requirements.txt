@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+datasets
+sentence-transformers
+faiss-cpu
+tenacity
+python-dotenv
+numpy
+nltk
+duckdb
+httpx
+python-multipart
+pytest
+pytest-asyncio
