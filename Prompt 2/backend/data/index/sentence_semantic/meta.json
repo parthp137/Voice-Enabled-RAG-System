@@ -1,0 +1,9 @@
+{
+  "strategy": "sentence_semantic",
+  "embedding_model": "intfloat/multilingual-e5-base",
+  "dimension": 768,
+  "chunk_count": 500,
+  "avg_chunk_len_words": 60.23,
+  "build_time_seconds": 264.19,
+  "build_timestamp": "2026-08-16T09:33:55.755593+00:00"
+}
