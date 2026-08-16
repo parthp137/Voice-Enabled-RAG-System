@@ -1,0 +1,9 @@
+{
+  "strategy": "fixed_size_overlap",
+  "embedding_model": "intfloat/multilingual-e5-base",
+  "dimension": 768,
+  "chunk_count": 507,
+  "avg_chunk_len_words": 59.94,
+  "build_time_seconds": 106.58,
+  "build_timestamp": "2026-08-16T09:29:31.563984+00:00"
+}
