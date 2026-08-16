@@ -1,0 +1,9 @@
+{
+  "strategy": "metadata_aware",
+  "embedding_model": "intfloat/multilingual-e5-base",
+  "dimension": 768,
+  "chunk_count": 500,
+  "avg_chunk_len_words": 60.22,
+  "build_time_seconds": 121.13,
+  "build_timestamp": "2026-08-16T09:35:56.892294+00:00"
+}
